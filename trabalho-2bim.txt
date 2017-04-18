@@ -15,6 +15,7 @@
 15) Crie um algoritmo que solicita a idade de 10 alunos e imprima a média aritmética utilizando recursividade.
 16) Crie um algoritmo que solicita o nome de 10 alunos e imprima todos os nomes armazenados utilizando recursividade.
 17) Crie um algoritmo que multiplica dois números naturais, através de somas sucessivas utilizando recursividade (Ex.: 6 ∗ 4 = 4 + 4 + 4 + 4 + 4 + 4).
+18) Crie um algoritmo que calcula juros simples utilizando recursividade.
 19) Crie um algoritmo que dado um número n, gere todas as possíveis combinações com as n primeiras letras do alfabeto. Ex.: n = 3. Resposta: ABC, ACB, BAC, BCA, CAB, CBA.
 20) Crie um algoritmo para calcular o fatorial de um número.
 21) Crie um algoritmo para calcular números triangulares.
